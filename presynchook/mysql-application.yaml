@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     chart: mysql
-    repoURL: 'https://charts.bitnami.com/bitnami'
+    repoURL: 'https://github.com/ayluiri/argocd-resourcehooks-labs.git'
     targetRevision: 9.23.0
     helm:
       releaseName: mysql-sample
