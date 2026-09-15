@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/abohmeed/argocd-resourcehooks-lab.git'
+    repoURL: 'https://github.com/ayluiri/argocd-resourcehooks-labs.git'
     targetRevision: HEAD
     path: 'presynchook/db-app'
   destination:
